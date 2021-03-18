@@ -8,4 +8,5 @@ VSCodeのRemote-Containerを使用した、Expressの開発環境サンプル。
 ## 手順
 * Remote-ContainersをVSCodeにインストール。
 * コマンドパレットから、`Remote-Containers: Reopen in Container`を選択し、Dockerイメージのビルドと、コンテナの起動を行う。
-* 
+* VSCodeの実行→デバッグの開始を選択。
+* http://localhost:8000で確認可能。
